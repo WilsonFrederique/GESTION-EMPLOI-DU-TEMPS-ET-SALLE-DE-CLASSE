@@ -90,7 +90,8 @@ const ListesM2EDT = () => {
                         <div>Emploi du temps de M2 <b>(du 1er au 6 avril 2025)</b></div>
                         <div>
                             <a href="#"><ImPrinter className='impression' /></a> &nbsp;&nbsp;
-                            <a href="/edtFrm"><FaRegPlusSquare /></a>
+                            {/* <a href="/edtFrm"><FaRegPlusSquare /></a> */}
+                            <a href="#"><FaRegPlusSquare /></a>
                         </div>
                     </div>
 

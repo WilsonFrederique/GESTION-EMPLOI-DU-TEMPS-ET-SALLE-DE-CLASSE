@@ -105,7 +105,8 @@ const ListesTousEDT = () => {
                         <div>Emploi du temps</div>
                         <div>
                             <a href="#"><ImPrinter className='impression' /></a> &nbsp;&nbsp;
-                            <a href="/edtFrm"><FaRegPlusSquare /></a>
+                            {/* <a href="/edtFrm"><FaRegPlusSquare /></a> */}
+                            <a href="#"><FaRegPlusSquare /></a>
                         </div>
                     </div>
             
