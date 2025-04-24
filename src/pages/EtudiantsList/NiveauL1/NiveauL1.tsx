@@ -58,8 +58,8 @@ const NiveauL1 = () => {
                 <div className="card shadow border-0 p-3 mt-4">
                     <div className="fa-reg-plus-square-container ensbl">
                         <div>Liste des étudiants inscrits en Licence 1</div>
-                        {/* <a href="/etudiantsFrm"><FaRegPlusSquare /></a> */}
-                        <a href="#"><FaRegPlusSquare /></a>
+                        <a href="/etudiantsFrm"><FaRegPlusSquare /></a>
+                        {/* <a href="#"><FaRegPlusSquare /></a> */}
                     </div>
                     
                     <table className="tableNiveau">

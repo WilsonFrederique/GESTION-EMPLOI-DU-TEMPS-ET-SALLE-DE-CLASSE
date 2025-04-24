@@ -83,8 +83,8 @@ const SalleListe = () => {
                         <div>Liste des salles de classe</div>
                         <div>
                             <a href="#"><ImPrinter className='impression' /></a> &nbsp;&nbsp;
-                            {/* <a href="/salleFRM"><FaRegPlusSquare /></a> */}
-                            <a href="#"><FaRegPlusSquare /></a>
+                            <a href="/salleFRM"><FaRegPlusSquare /></a>
+                            {/* <a href="#"><FaRegPlusSquare /></a> */}
                         </div>
                     </div>
             

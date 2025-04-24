@@ -82,8 +82,7 @@ const MatiersListe = () => {
                         <div>Liste des matières</div>
                         <div>
                             <a href="#"><ImPrinter className='impression' /></a> &nbsp;&nbsp;
-                            {/* <a href="/matiereFrm"><FaRegPlusSquare /></a> */}
-                            <a href="#"><FaRegPlusSquare /></a>
+                            <a href="/matiereFrm"><FaRegPlusSquare /></a>
                         </div>
                     </div>
             
